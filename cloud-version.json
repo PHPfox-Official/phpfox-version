@@ -1,12 +1,12 @@
 {
 	"snapshot_ids": {
-        "trial": "87781893",
-        "mini": "87781893",
-        "small": "87781893",
-        "medium": "87781893",
-        "large": "87781893",
-        "xlarge": "87781893",
-        "xxlarge": "87781893"
+        "trial": "87831977",
+        "mini": "87831977",
+        "small": "87831977",
+        "medium": "87831977",
+        "large": "87831977",
+        "xlarge": "87831977",
+        "xxlarge": "87831977"
     },
     "chatplus_image": "foxsystem/chatplus:1.1.3",
     "php-fpm_image": "foxsystem/cloud-php-fpm:7.3_2",
