@@ -4,5 +4,6 @@
     "storage": "foxsystem/cloud-storage:1.0",
     "web": "foxsystem/cloud-nginx:1.0",
     "mysql": "mysql/mysql-server:5.7",
-    "cache": "bitnami/redis:latest"
+    "cache": "bitnami/redis:latest",
+    "im": "foxsystem/cloud-im:1.0"
 }
