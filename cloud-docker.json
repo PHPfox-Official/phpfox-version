@@ -3,7 +3,7 @@
     "php": "foxsystem/cloud-php-fpm:7.4_1",
     "storage": "foxsystem/cloud-storage:1.0",
     "web": "foxsystem/cloud-nginx:1.0",
-    "mysql": "mysql/mysql-server:8.0",
+    "mysql": "mysql/mysql-server:8.0.28",
     "cache": "bitnami/redis:latest",
     "im": "foxsystem/cloud-im:1.0",
     "vcoder": "foxsystem/cloud-vcoder:1.0",
