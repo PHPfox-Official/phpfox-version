@@ -1,5 +1,5 @@
 {
-    "chatplus": "foxsystem/chatplus:1.2.1",
+    "chatplus": "foxsystem/metafox-chatplus:1.0.0-staging",
     "php": "foxsystem/metafox-fpm:dev-v1.2.4",
     "storage": "foxsystem/cloud-storage:1.0",
     "web": "bitnami/nginx:latest",
