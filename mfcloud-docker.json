@@ -4,7 +4,7 @@
     "storage": "foxsystem/cloud-storage:1.0",
     "web": "bitnami/nginx:latest",
     "mysql": "mysql:latest",
-    "postgres": "foxsystem/postgres:13.2",
+    "postgres": "postgres:latest",
     "cache": "bitnami/redis:latest",
     "vcoder": "foxsystem/cloud-vcoder:1.0",
     "queue": "rabbitmq:3-management",
