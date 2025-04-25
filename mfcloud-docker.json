@@ -10,5 +10,6 @@
     "vcoder": "foxsystem/cloud-vcoder:1.0",
     "queue": "rabbitmq:3-management",
     "search": "getmeili/meilisearch",
-    "node": "foxsystem/metafox-frontend-build:latest"
+    "node": "foxsystem/metafox-frontend-build:latest",
+    "live_transcoder": "foxsystem/metafox-transcoder-livevideo:latest"
 }
